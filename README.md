@@ -1,1 +1,1 @@
-![:name](https://count.getloli.com/get/@coin233?theme=rule34)
+![:counter](https://moe-counter.sakuras.in/get/@coin233?theme=rule34)
