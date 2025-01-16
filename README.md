@@ -1,4 +1,4 @@
-![:counter](https://moe-counter.sakuras.in/get/@coin233?theme=rule34&length=5)
+![:counter](https://moe-counter.sakuras.in/@coin233?name=coin233&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
 
 <!-- ![LC](https://raw.githubusercontent.com/Coin-233/Coin-233/refs/heads/main/LC%20YJ-RL-ES.svg) -->
 
