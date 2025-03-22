@@ -6,4 +6,6 @@
   <img src="https://img.shields.io/badge/LC-YJ_ES-pink?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAe0lEQVR4nO2XMQ7AMAgD/f9n1fK/umZBCi0ohORmJp+DCJCPABALIYAHJ6NBwRIdHBT00CEjUite7/znSK14vfM1kTO68LbTGd1e8VrMtDdVByfa21uHghZLiIKoRbQXcjY8dednv5TeOkLgDx310b1wKqF7w1dCR/xqX/vedvz3i858AAAAAElFTkSuQmCC&labelColor=f09199"></a>
 
 #
-_很菜, 什么都不会_
+<!-- _很菜, 什么都不会_ -->
+
+_基本都是私密_
